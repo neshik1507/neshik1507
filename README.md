@@ -96,105 +96,24 @@ I use GitHub to learn, experiment, build projects, and document my development j
 
 </div>
 
----
 
-# 🚀 Featured Projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neshik-s-s-3804a3387?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neshik1507@gmail.com) 
 
-> Add your actual projects here. The project details below are placeholders so that no unverified project information is published.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=neshik1507&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=neshik1507&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=neshik1507&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<details>
-<summary><b>🚀 Project 01 — Click to Expand</b></summary>
-
-<br>
-
-### 📌 Project Name
-
-`YOUR PROJECT NAME`
-
-### 📝 Description
-
-`Write a short description of your project here.`
-
-### 🛠️ Technologies
-
-`Add the technologies actually used in this project.`
-
-### 🔗 Links
-
-**Repository:**  
-`YOUR GITHUB REPOSITORY LINK`
-
-**Live Demo:**  
-`YOUR LIVE DEMO LINK`
-
-<br>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🔥 Project 02 — Click to Expand</b></summary>
-
-<br>
-
-### 📌 Project Name
-
-`YOUR PROJECT NAME`
-
-### 📝 Description
-
-`Write a short description of your project here.`
-
-### 🛠️ Technologies
-
-`Add the technologies actually used in this project.`
-
-### 🔗 Links
-
-**Repository:**  
-`YOUR GITHUB REPOSITORY LINK`
-
-**Live Demo:**  
-`YOUR LIVE DEMO LINK`
-
-<br>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>⚡ Project 03 — Click to Expand</b></summary>
-
-<br>
-
-### 📌 Project Name
-
-`YOUR PROJECT NAME`
-
-### 📝 Description
-
-`Write a short description of your project here.`
-
-### 🛠️ Technologies
-
-`Add the technologies actually used in this project.`
-
-### 🔗 Links
-
-**Repository:**  
-`YOUR GITHUB REPOSITORY LINK`
-
-**Live Demo:**  
-`YOUR LIVE DEMO LINK`
-
-<br>
-
-</details>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neshik1507&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=neshik1507&icon=4&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 🛠️ Tech Stack & Skills
 
 > Replace the icons below with only the technologies you actually use.
