@@ -1,280 +1,429 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:8E2DE2&height=220&section=header&text=Neshik%20S%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- ==================== HEADER ==================== -->
 
-# 👋 Hi, I'm Neshik S S
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=BCA+Student;Developer;Technology+Enthusiast;Learning+%7C+Building+%7C+Growing"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:8E2DE2&height=230&section=header&text=NESHIK%20S%20S&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=750&lines=BCA+Student;Developer;Technology+Enthusiast;Learning+%7C+Building+%7C+Growing;Welcome+to+my+GitHub+Profile!"/>
+
+<br><br>
+
 <a href="https://github.com/neshik1507">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/neshik-s-s-3804a3387/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:neshik1507@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://agent-6a9bfdcc56bb08d--curious-cheesecake-8aacd8.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=neshik1507&label=PROFILE+VIEWS&color=8E2DE2&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=neshik1507&label=PROFILE+VIEWS&color=8E2DE2&style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<!-- ==================== ABOUT ME ==================== -->
+
+# 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### Hi, I'm **Neshik S S** 👋
+
+I'm a **Bachelor's of Computer Applications (BCA)** student from **Salem, India**.
+
+I'm interested in technology and software development, and I use GitHub to learn, experiment, build projects, and document my development journey.
+
+### 🚀 My Approach
+
+- 💡 Learn through practical development
+- 🧠 Continuously improve my technical knowledge
+- 💻 Build and experiment with projects
+- 📚 Explore new technologies
+- 🌱 Learn something new every day
+- 🤝 Connect and collaborate with others
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neshik1507&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=8E2DE2&icon_color=8E2DE2&text_color=FFFFFF&rank_icon=github" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ==================== QUICK INFO ==================== -->
+
+# ⚡ Quick Information
+
+<div align="center">
+
+| 🎓 Education | 📍 Location | 💻 Profile | 🌐 Portfolio |
+|:---:|:---:|:---:|:---:|
+| **BCA** | **Salem, India** | **Developer** | **Available Online** |
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ==================== PROFILE LINKS ==================== -->
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                     NESHIK S S                           ║
-║                                                          ║
-║  🎓 Bachelor's of Computer Applications                 ║
-║  📍 Salem, India                                         ║
-║  💻 Developer                                            ║
-║  🚀 Technology Enthusiast                                ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+# 🌐 Find Me Online
 
-Hi! I'm Neshik S S, a Bachelor's of Computer Applications (BCA) student from Salem, India.
+<div align="center">
 
-I'm passionate about technology, software development, learning new concepts, and building practical projects.
+<a href="https://github.com/neshik1507">
+<img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
 
-I use GitHub to document my development journey, experiment with ideas, and continuously improve my skills.
+<a href="https://www.linkedin.com/in/neshik-s-s-3804a3387/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🌱 My Development Philosophy
+<a href="https://agent-6a9bfdcc56bb08d--curious-cheesecake-8aacd8.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8E2DE2?style=for-the-badge&logo=google-chrome"/>
+</a>
 
-> Learn → Build → Experiment → Improve → Repeat
+<a href="mailto:neshik1507@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-
-
-💡 Learn through practical development
-
-🧠 Continuously expand technical knowledge
-
-💻 Build useful and creative projects
-
-🔍 Explore modern technologies
-
-📚 Keep learning every day
-
-🤝 Connect and collaborate with other developers
-
-
+</div>
 
 ---
 
-🚀 My Profile
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
-<table>
-<tr><td width="50%" align="center">💻 GitHub
+# 🚀 Featured Projects
 
-<a href="https://github.com/neshik1507"><img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a></td><td width="50%" align="center">🌐 Portfolio
-
-<a href="https://agent-6a9bfdcc56bb08d--curious-cheesecake-8aacd8.netlify.app/"><img src="https://img.shields.io/badge/Visit%20Portfolio-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white"></a></td></tr><tr><td width="50%" align="center">💼 LinkedIn
-
-<a href="https://www.linkedin.com/in/neshik-s-s-3804a3387/"><img src="https://img.shields.io/badge/Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a></td><td width="50%" align="center">📧 Email
-
-<a href="mailto:neshik1507@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></td></tr>
-</table>
----
-
-⭐ Featured Projects
+> Project-specific information has intentionally been left open until the actual project names and repository links are provided.
 
 <details>
-<summary><b>🚀 Project 01 — Click to Expand</b></summary><br>Project Information
+<summary><b>🚀 Project 01</b></summary>
 
-Project Name: Add Project Name
+<br>
 
-Description:
-Add your project description here.
+**Project Name:** `Add project name`
 
-Technologies:
-Add technologies used in this project.
+**Description:**  
+`Add a short description of the project.`
 
-GitHub Repository:
-Add repository link.
+**Tech Stack:**  
+`Add confirmed technologies.`
 
-Live Demo:
-Add live demo link.
+**Repository:**  
+`Add GitHub repository link.`
 
-<br></details><br><details>
-<summary><b>🔥 Project 02 — Click to Expand</b></summary><br>Project Information
+**Live Demo:**  
+`Add live demo link if available.`
 
-Project Name: Add Project Name
+<br>
 
-Description:
-Add your project description here.
+</details>
 
-Technologies:
-Add technologies used in this project.
+<br>
 
-GitHub Repository:
-Add repository link.
+<details>
+<summary><b>🔥 Project 02</b></summary>
 
-Live Demo:
-Add live demo link.
+<br>
 
-<br></details><br><details>
-<summary><b>⚡ Project 03 — Click to Expand</b></summary><br>Project Information
+**Project Name:** `Add project name`
 
-Project Name: Add Project Name
+**Description:**  
+`Add a short description of the project.`
 
-Description:
-Add your project description here.
+**Tech Stack:**  
+`Add confirmed technologies.`
 
-Technologies:
-Add technologies used in this project.
+**Repository:**  
+`Add GitHub repository link.`
 
-GitHub Repository:
-Add repository link.
+**Live Demo:**  
+`Add live demo link if available.`
 
-Live Demo:
-Add live demo link.
+<br>
 
-<br></details>
+</details>
+
+<br>
+
+<details>
+<summary><b>⚡ Project 03</b></summary>
+
+<br>
+
+**Project Name:** `Add project name`
+
+**Description:**  
+`Add a short description of the project.`
+
+**Tech Stack:**  
+`Add confirmed technologies.`
+
+**Repository:**  
+`Add GitHub repository link.`
+
+**Live Demo:**  
+`Add live demo link if available.`
+
+<br>
+
+</details>
+
 ---
 
-🛠️ Tech Stack & Skills
+<!-- ==================== TECH STACK ==================== -->
 
-> Add only the technologies you actually use.
+# 🛠️ Tech Stack
 
+> Add or remove technologies below according to the technologies you actually use.
 
+### 💻 Programming
 
-💻 Programming Languages
+<div align="left">
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,html,css"/></p>🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,html,css&perline=8"/>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind"/></p>⚙️ Backend Development
+</div>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express"/></p>🗄️ Databases
+### 🎨 Frontend
 
-<p align="left"><img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb"/></p>🔧 Tools & Technologies
+<div align="left">
 
-<p align="left"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker,vercel"/></p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&perline=8"/>
+
+</div>
+
+### ⚙️ Backend
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&perline=8"/>
+
+</div>
+
+### 🗄️ Databases
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&perline=8"/>
+
+</div>
+
+### 🔧 Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker,vercel&perline=8"/>
+
+</div>
+
 ---
 
-📊 GitHub Analytics
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=neshik1507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&text_color=FFFFFF"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshik1507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF"/></div>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neshik1507&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshik1507&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=neshik1507&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2"/>
+
+</div>
+
 ---
 
-🔥 GitHub Streak
+<!-- ==================== ACTIVITY ==================== -->
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=neshik1507&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2"></div>
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=neshik1507&bg_color=0D1117&color=FFFFFF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true&custom_title=Neshik%20S%20S%20-%20Contribution%20Activity"/>
+
+</div>
+
 ---
 
-📈 Contribution Activity
+<!-- ==================== TROPHIES ==================== -->
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=neshik1507&bg_color=0D1117&color=FFFFFF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true"></div>
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=neshik1507&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
 ---
 
-🐍 Contribution Snake
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-<div align="center"><img src="https://raw.githubusercontent.com/neshik1507/neshik1507/output/github-contribution-grid-snake.svg"></div>
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/neshik1507/neshik1507/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> If the snake image is not showing, create the GitHub Actions workflow that generates `github-contribution-grid-snake.svg` in the `output` branch.
+
 ---
 
-🏆 GitHub Trophies
+<!-- ==================== CURRENT FOCUS ==================== -->
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=neshik1507&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"></div>
----
+# 🎯 Current Focus
 
-🎯 Current Focus
+<div align="center">
 
 <table>
-<tr><td align="center" width="20%">💻
+<tr>
 
-Development
+<td align="center" width="20%">
 
-</td><td align="center" width="20%">📚
+### 💻
 
-Learning
+**Development**
 
-</td><td align="center" width="20%">🧠
+</td>
 
-Problem Solving
+<td align="center" width="20%">
 
-</td><td align="center" width="20%">🚀
+### 📚
 
-Projects
+**Learning**
 
-</td><td align="center" width="20%">🔍
+</td>
 
-Exploration
+<td align="center" width="20%">
 
-</td></tr>
+### 🧠
+
+**Problem Solving**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+
+**Projects**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔍
+
+**Exploration**
+
+</td>
+
+</tr>
 </table>
+
+</div>
+
 ---
 
-💡 My Learning Cycle
+<!-- ==================== LEARNING JOURNEY ==================== -->
 
-<div align="center">┌─────────────┐
-        │    LEARN    │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    BUILD    │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │ EXPERIMENT  │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   IMPROVE   │
-        └──────┬──────┘
-               │
-               └──────────────► 🔄 REPEAT
+# 🧠 My Learning Journey
+
+<div align="center">
+
+```text
+                    ┌──────────────┐
+                    │    LEARN     │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    BUILD     │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │ EXPERIMENT   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   IMPROVE    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    SHARE     │
+                    └──────┬───────┘
+                           │
+                           └──────────────┐
+                                          │
+                                          ▼
+                                      🔄 REPEAT
 
 </div>
 ---
 
-🤝 Connect & Collaborate
+<!-- ==================== CONNECT ==================== -->🤝 Connect & Collaborate
 
-<div align="center">Let's connect and build something interesting together! 🚀
+<div align="center">Let's connect, learn, and build together. 🚀
 
 <br><a href="https://github.com/neshik1507">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/neshik-s-s-3804a3387/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:neshik1507@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://agent-6a9bfdcc56bb08d--curious-cheesecake-8aacd8.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a></div>
 ---
 
-🌟 Profile Information
+<!-- ==================== PROFILE CARD ==================== -->👤 Profile Card
 
-<div align="center">👤	Information
+<div align="center">	Details
 
-Name	Neshik S S
-Degree	Bachelor's of Computer Applications
-Location	Salem, India
-GitHub	neshik1507
-LinkedIn	Neshik S S
-Portfolio	Visit Portfolio
-Email	neshik1507@gmail.com
+👨‍💻 Name	Neshik S S
+🎓 Degree	Bachelor's of Computer Applications
+📍 Location	Salem, India
+💻 GitHub	neshik1507
+💼 LinkedIn	Neshik S S
+🌐 Portfolio	Visit Portfolio
+📧 Email	neshik1507@gmail.com
 
 
 </div>
 ---
 
-<div align="center">💜 Thanks for visiting my profile!
+<!-- ==================== FOOTER ==================== --><div align="center"><br>💜 Thanks for visiting my GitHub profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:302B63,100:0F0C29&height=140&section=footer"></div>
-`
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:302B63,100:0F0C29&height=150&section=footer"/></div>
