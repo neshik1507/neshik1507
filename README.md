@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Neshik premium GitHub profile banner">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Neshik premium GitHub profile banner">
 <defs>
 
   <!-- Animated Accent Gradient -->
@@ -1013,3 +1021,5 @@
 </g>
 
 </svg>
+</body>
+</html>
