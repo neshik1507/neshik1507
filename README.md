@@ -1,1025 +1,309 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-</head>
-<body>
-    <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Neshik premium GitHub profile banner">
-<defs>
-
-  <!-- Animated Accent Gradient -->
-  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#7C3AED">
-      <animate
-        attributeName="stop-color"
-        values="#7C3AED;#22D3EE;#10B981;#7C3AED"
-        dur="9s"
-        repeatCount="indefinite"/>
-    </stop>
-
-    <stop offset="55%" stop-color="#22D3EE">
-      <animate
-        attributeName="stop-color"
-        values="#22D3EE;#10B981;#7C3AED;#22D3EE"
-        dur="9s"
-        repeatCount="indefinite"/>
-    </stop>
-
-    <stop offset="100%" stop-color="#10B981">
-      <animate
-        attributeName="stop-color"
-        values="#10B981;#7C3AED;#22D3EE;#10B981"
-        dur="9s"
-        repeatCount="indefinite"/>
-    </stop>
-  </linearGradient>
-
-  <!-- Background Orbs -->
-  <radialGradient id="orb1">
-    <stop offset="0%" stop-color="#22D3EE" stop-opacity=".20"/>
-    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
-  </radialGradient>
-
-  <radialGradient id="orb2">
-    <stop offset="0%" stop-color="#7C3AED" stop-opacity=".18"/>
-    <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
-  </radialGradient>
-
-  <!-- Glow -->
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="5" result="blur"/>
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-
-  <!-- Soft Background Glow -->
-  <filter id="soft">
-    <feGaussianBlur stdDeviation="18"/>
-  </filter>
-
-  <!-- Rounded Canvas -->
-  <clipPath id="round">
-    <rect
-      x="0"
-      y="0"
-      width="1180"
-      height="610"
-      rx="30"/>
-  </clipPath>
-
-  <!-- Noise Texture -->
-  <pattern
-    id="noise"
-    width="80"
-    height="80"
-    patternUnits="userSpaceOnUse">
-
-    <circle
-      cx="7"
-      cy="12"
-      r=".7"
-      fill="#F8FAFC"
-      opacity=".06"/>
-
-    <circle
-      cx="51"
-      cy="39"
-      r=".6"
-      fill="#F8FAFC"
-      opacity=".05"/>
-
-    <circle
-      cx="29"
-      cy="68"
-      r=".5"
-      fill="#F8FAFC"
-      opacity=".05"/>
-  </pattern>
-
-  <!-- Scanline -->
-  <pattern
-    id="scan"
-    width="8"
-    height="8"
-    patternUnits="userSpaceOnUse">
-
-    <rect
-      width="8"
-      height="1"
-      fill="#22D3EE"
-      opacity=".035"/>
-  </pattern>
-
-</defs>
-
-
-<!-- ========================================================= -->
-<!-- MAIN CANVAS -->
-<!-- ========================================================= -->
-
-<g clip-path="url(#round)">
-
-  <!-- Background -->
-  <rect
-    width="1180"
-    height="610"
-    fill="#030712"/>
-
-
-  <!-- ======================================================= -->
-  <!-- BACKGROUND GLOW 1 -->
-  <!-- ======================================================= -->
-
-  <circle
-    cx="180"
-    cy="90"
-    r="280"
-    fill="url(#orb2)"
-    filter="url(#soft)">
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0;55 30;0 0"
-      dur="12s"
-      repeatCount="indefinite"/>
-  </circle>
-
-
-  <!-- ======================================================= -->
-  <!-- BACKGROUND GLOW 2 -->
-  <!-- ======================================================= -->
-
-  <circle
-    cx="1010"
-    cy="500"
-    r="300"
-    fill="url(#orb1)"
-    filter="url(#soft)">
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0;-45 -35;0 0"
-      dur="14s"
-      repeatCount="indefinite"/>
-  </circle>
-
-
-  <!-- ======================================================= -->
-  <!-- GLASS CONTAINER -->
-  <!-- ======================================================= -->
-
-  <rect
-    x="24"
-    y="24"
-    width="1132"
-    height="562"
-    rx="24"
-    fill="#0F172A"
-    fill-opacity=".72"
-    stroke="#F8FAFC"
-    stroke-opacity=".08"/>
-
-
-  <!-- Noise -->
-  <rect
-    x="24"
-    y="24"
-    width="1132"
-    height="562"
-    rx="24"
-    fill="url(#noise)"/>
-
-
-  <!-- ======================================================= -->
-  <!-- BORDER SHIMMER -->
-  <!-- ======================================================= -->
-
-  <rect
-    x="24"
-    y="24"
-    width="1132"
-    height="562"
-    rx="24"
-    fill="none"
-    stroke="url(#accent)"
-    stroke-width="1.2"
-    stroke-dasharray="18 240">
+<div align="center">
+
+<a href="https://github.com/">
+  <img src="./profile-banner.svg" alt="Neshik Premium GitHub Profile Banner" width="100%">
+</a>
 
-    <animate
-      attributeName="stroke-dashoffset"
-      from="0"
-      to="-516"
-      dur="7s"
-      repeatCount="indefinite"/>
-  </rect>
+# NESHIK
 
+### Software Developer • AI & Web Developer • UI/UX Explorer
+
+**Building Digital Worlds with Code, AI & Creativity.**
+
+<p>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👋 WHO AM I?
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     NESHIK / SYSTEM ONLINE                   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  $ whoami                                                    │
+│                                                              │
+│  Neshik                                                       │
+│                                                              │
+│  > Software Developer                                         │
+│  > AI & Web Developer                                         │
+│  > UI/UX Explorer                                             │
+│  > Creative Technologist                                      │
+│                                                              │
+│  BUILDING DIGITAL WORLDS                                     │
+│  AI · WEB · UI/UX · SPACE                                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I'm a **BCA student and aspiring Software Developer** interested in creating modern digital experiences using web technologies, artificial intelligence, UI/UX design and creative technology.
+
+I enjoy turning ideas into interactive websites, applications, AI-powered tools and experimental digital experiences.
+
+---
+
+## 🚀 CURRENT FOCUS
+
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│  🌐 Web Development                                │
+│  🤖 Artificial Intelligence                       │
+│  🧠 Generative AI                                 │
+│  🎨 UI / UX Design                                │
+│  ⚛️ React Development                             │
+│  🐍 Python Development                            │
+│  🌌 Space & Creative Technology                   │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
 
-  <!-- ======================================================= -->
-  <!-- LEFT SIDE -->
-  <!-- ======================================================= -->
-
-  <g transform="translate(65 95)">
+---
 
-    <!-- System Label -->
+## 🛠️ TECHNOLOGY STACK
 
-    <text
-      x="0"
-      y="0"
-      font-family="monospace"
-      font-size="12"
-      fill="#94A3B8"
-      letter-spacing="3">
+### Programming
 
-      NESHIK / SYSTEM ONLINE
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp" />
+</p>
 
-    </text>
+### Web Development
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind" />
+</p>
 
-    <!-- ===================================================== -->
-    <!-- ASCII PORTRAIT -->
-    <!-- ===================================================== -->
+### AI & Data
 
-    <g
-      font-family="monospace"
-      font-size="13"
-      font-weight="700"
-      fill="url(#accent)"
-      filter="url(#glow)">
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-      <!-- Line 1 -->
+### Tools
 
-      <text
-        x="0"
-        y="62"
-        opacity="0">
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
+</p>
+
+---
+
+## 💡 FEATURED PROJECTS
+
+| Project                          | Description                                  | Technology              |
+| -------------------------------- | -------------------------------------------- | ----------------------- |
+| 🤖 **J.A.R.V.I.S.**              | Personal AI command center interface         | HTML • CSS • JavaScript |
+| 💰 **PocketSmart AI**            | AI-powered budget & recommendation assistant | Python • Gemini AI      |
+| 🏏 **MS Dhoni Fan Website**      | Interactive cricket fan experience           | HTML • CSS • JavaScript |
+| 🧠 **AI Meeting Summarizer**     | Summarizes meeting conversations using AI    | AI • Python             |
+| 🏥 **Hospital Management**       | Digital hospital management interface        | Web Technologies        |
+| 🏨 **Hotel Management**          | Hotel management application                 | Web Technologies        |
+| 🎨 **CSS Design AI**             | AI-assisted design experimentation           | AI • Web                |
+| 🌌 **Neutrino 15 Space**         | Space information + interactive experience   | HTML • CSS • JavaScript |
+| 🪙 **Numismatics Explorer**      | Explore coins and currencies                 | Web • UI/UX             |
+| 🏛️ **Tamil Nadu Temple Finder** | Temple discovery application                 | Web • Tamil             |
+| 🎬 **Movie Suggestion AI**       | AI-powered movie recommendation concept      | AI • Web                |
+| 🧾 **Bill Splitter**             | Simple expense splitting application         | JavaScript              |
+
+---
+
+## 🧪 EXPERIMENTAL PROJECTS
+
+```text
+NEUTRINO 15
+│
+├── 🤖 AI Applications
+├── 🌐 Web Experiences
+├── 🎨 UI/UX Experiments
+├── 🌌 Space Applications
+├── 🪙 Numismatics
+├── 🏏 Cricket Projects
+├── 🎮 Interactive Experiences
+└── 🚀 Future Technology
+```
+
+---
+
+## 🌌 BEYOND CODE
+
+My interests go beyond traditional software development.
+
+```text
+🌌 Space & Astronomy
+🏏 Cricket
+📚 Books
+🪙 Numismatics
+📮 Stamp Collection
+🎨 Creative Design
+🤖 Artificial Intelligence
+💻 Technology
+```
+
+I like combining these interests with technology to create unusual and interactive projects.
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=030712" />
+
+</div>
+
+---
+
+## 💻 MOST USED LANGUAGES
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712" />
+
+</div>
+
+---
+
+## 🧠 MY DEVELOPMENT PHILOSOPHY
+
+```text
+              IDEA
+               │
+               ▼
+          ┌──────────┐
+          │   BUILD  │
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │   TEST   │
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │ IMPROVE  │
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │  SHIP 🚀 │
+          └────┬─────┘
+               │
+               ▼
+             REPEAT
+               ♾️
+```
 
-        ████████
+> **Learn → Build → Improve → Repeat**
 
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin=".2s"
-          dur=".45s"
-          fill="freeze"/>
+---
 
-      </text>
+## 🎯 2026–27 GOALS
 
+* [ ] Become a stronger software developer
+* [ ] Build production-ready web applications
+* [ ] Improve DSA and problem-solving
+* [ ] Learn advanced React
+* [ ] Build more AI-powered applications
+* [ ] Improve UI/UX design skills
+* [ ] Create a professional developer portfolio
+* [ ] Contribute to open-source projects
+* [ ] Build real-world projects
+* [ ] Prepare for software development placements
 
-      <!-- Line 2 -->
+---
 
-      <text
-        x="0"
-        y="77"
-        opacity="0">
+## 📈 DEVELOPMENT JOURNEY
 
-        ██████████████
+```text
+BCA
+ │
+ ├── Programming
+ │
+ ├── Web Development
+ │
+ ├── UI / UX
+ │
+ ├── Artificial Intelligence
+ │
+ ├── Generative AI
+ │
+ ├── Full-Stack Development
+ │
+ └── Software Engineering
+          │
+          ▼
+       BUILD 🚀
+```
 
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin=".45s"
-          dur=".45s"
-          fill="freeze"/>
+---
 
-      </text>
+## ⚡ FUN FACT
 
+```text
+while(alive) {
 
-      <!-- Line 3 -->
+    learn();
+    build();
+    experiment();
+    fail();
+    improve();
+    repeat();
 
-      <text
-        x="0"
-        y="92"
-        opacity="0">
+}
+```
 
-        ████  ◉    ◉  ████
+---
 
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin=".7s"
-          dur=".45s"
-          fill="freeze"/>
+## 🤝 LET'S CONNECT
 
-      </text>
+<div align="center">
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-      <!-- Line 4 -->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=22D3EE">
+</a>
 
-      <text
-        x="0"
-        y="107"
-        opacity="0">
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=vercel&logoColor=7C3AED">
+</a>
 
-        █████    ▽    █████
+</div>
 
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin=".95s"
-          dur=".45s"
-          fill="freeze"/>
+---
 
-      </text>
+<div align="center">
 
+### 🌌 BUILDING DIGITAL WORLDS
 
-      <!-- Line 5 -->
+**AI • WEB • UI/UX • SPACE**
 
-      <text
-        x="0"
-        y="122"
-        opacity="0">
+<br>
 
-        ████████████████████
+`NESHIK_`
 
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin="1.2s"
-          dur=".45s"
-          fill="freeze"/>
+<br>
 
-      </text>
+⭐ If you find something interesting here, feel free to explore my repositories.
 
+<br>
 
-      <!-- Line 6 -->
+**$ learn → build → improve → repeat ♾**
 
-      <text
-        x="0"
-        y="137"
-        opacity="0">
-
-        ███  ████████  ███
-
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin="1.45s"
-          dur=".45s"
-          fill="freeze"/>
-
-      </text>
-
-
-      <!-- Line 7 -->
-
-      <text
-        x="0"
-        y="152"
-        opacity="0">
-
-        ████  ██  ████
-
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin="1.7s"
-          dur=".45s"
-          fill="freeze"/>
-
-      </text>
-
-
-      <!-- Line 8 -->
-
-      <text
-        x="0"
-        y="167"
-        opacity="0">
-
-        ████████
-
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin="1.95s"
-          dur=".45s"
-          fill="freeze"/>
-
-      </text>
-
-    </g>
-
-
-    <!-- ===================================================== -->
-    <!-- SCANLINE -->
-    <!-- ===================================================== -->
-
-    <g opacity=".28">
-
-      <rect
-        x="-15"
-        y="35"
-        width="310"
-        height="2"
-        fill="#22D3EE">
-
-        <animateTransform
-          attributeName="transform"
-          type="translate"
-          values="0 0;0 145;0 0"
-          dur="4s"
-          repeatCount="indefinite"/>
-
-      </rect>
-
-    </g>
-
-
-    <!-- Terminal Prompt -->
-
-    <text
-      x="0"
-      y="225"
-      font-family="monospace"
-      font-size="12"
-      fill="#94A3B8">
-
-      $ whoami
-
-    </text>
-
-
-    <!-- Name -->
-
-    <text
-      x="0"
-      y="250"
-      font-family="monospace"
-      font-size="24"
-      font-weight="700"
-      fill="#F8FAFC">
-
-      neshik
-
-      <tspan fill="#22D3EE">_</tspan>
-
-    </text>
-
-
-    <!-- Description -->
-
-    <text
-      x="0"
-      y="285"
-      font-family="sans-serif"
-      font-size="13"
-      fill="#94A3B8">
-
-      BUILDING DIGITAL WORLDS
-
-    </text>
-
-
-    <text
-      x="0"
-      y="310"
-      font-family="sans-serif"
-      font-size="13"
-      fill="#94A3B8">
-
-      AI · WEB · UI/UX · SPACE
-
-    </text>
-
-  </g>
-
-
-  <!-- ======================================================= -->
-  <!-- RIGHT TERMINAL -->
-  <!-- ======================================================= -->
-
-  <g transform="translate(405 65)">
-
-    <!-- Terminal Window -->
-
-    <rect
-      width="700"
-      height="480"
-      rx="22"
-      fill="#030712"
-      fill-opacity=".78"
-      stroke="#F8FAFC"
-      stroke-opacity=".09"/>
-
-
-    <!-- Terminal Header -->
-
-    <rect
-      width="700"
-      height="58"
-      rx="22"
-      fill="#0F172A"
-      fill-opacity=".92"/>
-
-
-    <rect
-      y="35"
-      width="700"
-      height="23"
-      fill="#0F172A"
-      fill-opacity=".92"/>
-
-
-    <!-- Window Controls -->
-
-    <circle
-      cx="28"
-      cy="29"
-      r="6"
-      fill="#7C3AED"/>
-
-    <circle
-      cx="49"
-      cy="29"
-      r="6"
-      fill="#22D3EE"/>
-
-    <circle
-      cx="70"
-      cy="29"
-      r="6"
-      fill="#10B981"/>
-
-
-    <!-- Terminal Title -->
-
-    <text
-      x="105"
-      y="34"
-      font-family="monospace"
-      font-size="12"
-      fill="#94A3B8">
-
-      neshik@github: ~/profile
-
-    </text>
-
-
-    <!-- ===================================================== -->
-    <!-- GREETING -->
-    <!-- ===================================================== -->
-
-    <text
-      x="36"
-      y="102"
-      font-family="sans-serif"
-      font-size="15"
-      fill="#94A3B8">
-
-      Hi 👋
-
-    </text>
-
-
-    <!-- Main Name -->
-
-    <text
-      x="36"
-      y="143"
-      font-family="sans-serif"
-      font-size="37"
-      font-weight="800"
-      fill="#F8FAFC">
-
-      I'm Neshik
-
-    </text>
-
-
-    <!-- ===================================================== -->
-    <!-- TYPING ROLE 1 -->
-    <!-- ===================================================== -->
-
-    <text
-      x="36"
-      y="178"
-      font-family="monospace"
-      font-size="16"
-      fill="#22D3EE">
-
-      <tspan>Software Developer</tspan>
-
-      <animate
-        attributeName="opacity"
-        values="1;1;0;0;1"
-        dur="8s"
-        repeatCount="indefinite"/>
-
-    </text>
-
-
-    <!-- ===================================================== -->
-    <!-- TYPING ROLE 2 -->
-    <!-- ===================================================== -->
-
-    <text
-      x="36"
-      y="178"
-      font-family="monospace"
-      font-size="16"
-      fill="#7C3AED"
-      opacity="0">
-
-      <tspan>AI &amp; Web Developer</tspan>
-
-      <animate
-        attributeName="opacity"
-        values="0;0;1;1;0"
-        dur="8s"
-        repeatCount="indefinite"/>
-
-    </text>
-
-
-    <!-- Blinking Cursor -->
-
-    <rect
-      x="255"
-      y="163"
-      width="2"
-      height="20"
-      fill="#22D3EE">
-
-      <animate
-        attributeName="opacity"
-        values="1;0;1"
-        dur="1s"
-        repeatCount="indefinite"/>
-
-    </rect>
-
-
-    <!-- ===================================================== -->
-    <!-- PROFILE DETAILS -->
-    <!-- ===================================================== -->
-
-    <g
-      font-family="monospace"
-      font-size="12">
-
-      <!-- Location -->
-
-      <text
-        x="36"
-        y="222"
-        fill="#94A3B8"
-        opacity="0">
-
-        📍 Salem, India
-
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin="2.2s"
-          dur=".5s"
-          fill="freeze"/>
-
-      </text>
-
-
-      <!-- Education -->
-
-      <text
-        x="36"
-        y="247"
-        fill="#94A3B8"
-        opacity="0">
-
-        🎓 BCA Student
-
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin="2.5s"
-          dur=".5s"
-          fill="freeze"/>
-
-      </text>
-
-
-      <!-- Focus -->
-
-      <text
-        x="36"
-        y="272"
-        fill="#94A3B8"
-        opacity="0">
-
-        🚀 Building AI + Web Projects
-
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin="2.8s"
-          dur=".5s"
-          fill="freeze"/>
-
-      </text>
-
-
-      <!-- Interests -->
-
-      <text
-        x="36"
-        y="297"
-        fill="#94A3B8"
-        opacity="0">
-
-        🌌 Exploring Space &amp; Creative Technology
-
-        <animate
-          attributeName="opacity"
-          values="0;1"
-          begin="3.1s"
-          dur=".5s"
-          fill="freeze"/>
-
-      </text>
-
-    </g>
-
-
-    <!-- ===================================================== -->
-    <!-- SKILLS -->
-    <!-- ===================================================== -->
-
-    <text
-      x="36"
-      y="335"
-      font-family="sans-serif"
-      font-size="12"
-      font-weight="700"
-      fill="#F8FAFC">
-
-      SKILLS
-
-    </text>
-
-
-    <g
-      font-family="sans-serif"
-      font-size="11"
-      fill="#F8FAFC">
-
-
-      <!-- JavaScript -->
-
-      <g transform="translate(36 350)">
-
-        <rect
-          width="82"
-          height="28"
-          rx="14"
-          fill="#7C3AED"
-          fill-opacity=".16"
-          stroke="#7C3AED"
-          stroke-opacity=".35"/>
-
-        <text
-          x="41"
-          y="18"
-          text-anchor="middle">
-
-          JavaScript
-
-        </text>
-
-        <animateTransform
-          attributeName="transform"
-          type="scale"
-          values="1;1.03;1"
-          dur="3s"
-          repeatCount="indefinite"/>
-
-      </g>
-
-
-      <!-- Python -->
-
-      <g transform="translate(128 350)">
-
-        <rect
-          width="72"
-          height="28"
-          rx="14"
-          fill="#22D3EE"
-          fill-opacity=".16"
-          stroke="#22D3EE"
-          stroke-opacity=".35"/>
-
-        <text
-          x="36"
-          y="18"
-          text-anchor="middle">
-
-          Python
-
-        </text>
-
-      </g>
-
-
-      <!-- React -->
-
-      <g transform="translate(210 350)">
-
-        <rect
-          width="72"
-          height="28"
-          rx="14"
-          fill="#10B981"
-          fill-opacity=".16"
-          stroke="#10B981"
-          stroke-opacity=".35"/>
-
-        <text
-          x="36"
-          y="18"
-          text-anchor="middle">
-
-          React
-
-        </text>
-
-      </g>
-
-
-      <!-- Generative AI -->
-
-      <g transform="translate(292 350)">
-
-        <rect
-          width="92"
-          height="28"
-          rx="14"
-          fill="#7C3AED"
-          fill-opacity=".16"
-          stroke="#7C3AED"
-          stroke-opacity=".35"/>
-
-        <text
-          x="46"
-          y="18"
-          text-anchor="middle">
-
-          Generative AI
-
-        </text>
-
-      </g>
-
-
-      <!-- UI UX -->
-
-      <g transform="translate(394 350)">
-
-        <rect
-          width="76"
-          height="28"
-          rx="14"
-          fill="#22D3EE"
-          fill-opacity=".16"
-          stroke="#22D3EE"
-          stroke-opacity=".35"/>
-
-        <text
-          x="38"
-          y="18"
-          text-anchor="middle">
-
-          UI / UX
-
-        </text>
-
-      </g>
-
-    </g>
-
-
-    <!-- ===================================================== -->
-    <!-- SOCIAL LINKS -->
-    <!-- ===================================================== -->
-
-    <g
-      transform="translate(36 414)"
-      fill="#94A3B8"
-      font-family="sans-serif"
-      font-size="12">
-
-      <text x="0" y="0">
-        ⌘ GitHub
-      </text>
-
-      <text x="105" y="0">
-        in LinkedIn
-      </text>
-
-      <text x="225" y="0">
-        ◎ Portfolio
-      </text>
-
-      <text x="340" y="0">
-        ✉ Email
-      </text>
-
-    </g>
-
-
-    <!-- Terminal Footer -->
-
-    <text
-      x="36"
-      y="452"
-      font-family="monospace"
-      font-size="11"
-      fill="#94A3B8">
-
-      $ learn → build → improve → repeat ♾
-
-    </text>
-
-  </g>
-
-
-  <!-- ======================================================= -->
-  <!-- FLOATING PARTICLES -->
-  <!-- ======================================================= -->
-
-  <g fill="#22D3EE">
-
-    <circle
-      cx="360"
-      cy="80"
-      r="2">
-
-      <animate
-        attributeName="cy"
-        values="80;55;80"
-        dur="4s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <circle
-      cx="1140"
-      cy="150"
-      r="1.5">
-
-      <animate
-        attributeName="cy"
-        values="150;125;150"
-        dur="3.5s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <circle
-      cx="375"
-      cy="535"
-      r="1.5">
-
-      <animate
-        attributeName="cy"
-        values="535;510;535"
-        dur="5s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-  </g>
-
-
-  <!-- ======================================================= -->
-  <!-- MOVING SCANLINE -->
-  <!-- ======================================================= -->
-
-  <rect
-    x="24"
-    y="24"
-    width="1132"
-    height="562"
-    rx="24"
-    fill="url(#scan)">
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 -610;0 610"
-      dur="7s"
-      repeatCount="indefinite"/>
-
-  </rect>
-
-</g>
-
-</svg>
-</body>
-</html>
+</div>
