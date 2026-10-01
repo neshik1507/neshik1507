@@ -1,298 +1,1015 @@
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Neshik premium GitHub profile banner">
+<defs>
+
+  <!-- Animated Accent Gradient -->
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED">
+      <animate
+        attributeName="stop-color"
+        values="#7C3AED;#22D3EE;#10B981;#7C3AED"
+        dur="9s"
+        repeatCount="indefinite"/>
+    </stop>
+
+    <stop offset="55%" stop-color="#22D3EE">
+      <animate
+        attributeName="stop-color"
+        values="#22D3EE;#10B981;#7C3AED;#22D3EE"
+        dur="9s"
+        repeatCount="indefinite"/>
+    </stop>
+
+    <stop offset="100%" stop-color="#10B981">
+      <animate
+        attributeName="stop-color"
+        values="#10B981;#7C3AED;#22D3EE;#10B981"
+        dur="9s"
+        repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+
+  <!-- Background Orbs -->
+  <radialGradient id="orb1">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity=".20"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+
+  <radialGradient id="orb2">
+    <stop offset="0%" stop-color="#7C3AED" stop-opacity=".18"/>
+    <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- Glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Soft Background Glow -->
+  <filter id="soft">
+    <feGaussianBlur stdDeviation="18"/>
+  </filter>
+
+  <!-- Rounded Canvas -->
+  <clipPath id="round">
+    <rect
+      x="0"
+      y="0"
+      width="1180"
+      height="610"
+      rx="30"/>
+  </clipPath>
+
+  <!-- Noise Texture -->
+  <pattern
+    id="noise"
+    width="80"
+    height="80"
+    patternUnits="userSpaceOnUse">
+
+    <circle
+      cx="7"
+      cy="12"
+      r=".7"
+      fill="#F8FAFC"
+      opacity=".06"/>
+
+    <circle
+      cx="51"
+      cy="39"
+      r=".6"
+      fill="#F8FAFC"
+      opacity=".05"/>
+
+    <circle
+      cx="29"
+      cy="68"
+      r=".5"
+      fill="#F8FAFC"
+      opacity=".05"/>
+  </pattern>
+
+  <!-- Scanline -->
+  <pattern
+    id="scan"
+    width="8"
+    height="8"
+    patternUnits="userSpaceOnUse">
+
+    <rect
+      width="8"
+      height="1"
+      fill="#22D3EE"
+      opacity=".035"/>
+  </pattern>
+
+</defs>
+
+
+<!-- ========================================================= -->
+<!-- MAIN CANVAS -->
+<!-- ========================================================= -->
+
+<g clip-path="url(#round)">
+
+  <!-- Background -->
+  <rect
+    width="1180"
+    height="610"
+    fill="#030712"/>
+
+
+  <!-- ======================================================= -->
+  <!-- BACKGROUND GLOW 1 -->
+  <!-- ======================================================= -->
+
+  <circle
+    cx="180"
+    cy="90"
+    r="280"
+    fill="url(#orb2)"
+    filter="url(#soft)">
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;55 30;0 0"
+      dur="12s"
+      repeatCount="indefinite"/>
+  </circle>
+
+
+  <!-- ======================================================= -->
+  <!-- BACKGROUND GLOW 2 -->
+  <!-- ======================================================= -->
+
+  <circle
+    cx="1010"
+    cy="500"
+    r="300"
+    fill="url(#orb1)"
+    filter="url(#soft)">
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;-45 -35;0 0"
+      dur="14s"
+      repeatCount="indefinite"/>
+  </circle>
+
+
+  <!-- ======================================================= -->
+  <!-- GLASS CONTAINER -->
+  <!-- ======================================================= -->
+
+  <rect
+    x="24"
+    y="24"
+    width="1132"
+    height="562"
+    rx="24"
+    fill="#0F172A"
+    fill-opacity=".72"
+    stroke="#F8FAFC"
+    stroke-opacity=".08"/>
+
+
+  <!-- Noise -->
+  <rect
+    x="24"
+    y="24"
+    width="1132"
+    height="562"
+    rx="24"
+    fill="url(#noise)"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:8E2DE2&height=230&section=header&text=NESHIK%20S%20S&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+
+  <!-- ======================================================= -->
+  <!-- BORDER SHIMMER -->
+  <!-- ======================================================= -->
 
-<br>
+  <rect
+    x="24"
+    y="24"
+    width="1132"
+    height="562"
+    rx="24"
+    fill="none"
+    stroke="url(#accent)"
+    stroke-width="1.2"
+    stroke-dasharray="18 240">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Neshik+S+S+%F0%9F%91%8B;BCA+Student+%F0%9F%8E%93;Developer+%F0%9F%92%BB;Technology+Enthusiast+%F0%9F%9A%80;Learning+%7C+Building+%7C+Growing"/>
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-516"
+      dur="7s"
+      repeatCount="indefinite"/>
+  </rect>
 
-<br><br>
 
-<a href="https://github.com/neshik1507">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <!-- ======================================================= -->
+  <!-- LEFT SIDE -->
+  <!-- ======================================================= -->
 
-<a href="https://www.linkedin.com/in/neshik-s-s-3804a3387/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <g transform="translate(65 95)">
 
-<a href="mailto:neshik1507@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <!-- System Label -->
 
-<a href="https://agent-6a9bfdcc56bb08d--curious-cheesecake-8aacd8.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+    <text
+      x="0"
+      y="0"
+      font-family="monospace"
+      font-size="12"
+      fill="#94A3B8"
+      letter-spacing="3">
 
-<br><br>
+      NESHIK / SYSTEM ONLINE
 
-<img src="https://komarev.com/ghpvc/?username=neshik1507&label=PROFILE%20VIEWS&color=8E2DE2&style=for-the-badge"/>
+    </text>
 
-</div>
 
----
+    <!-- ===================================================== -->
+    <!-- ASCII PORTRAIT -->
+    <!-- ===================================================== -->
 
-# 👨‍💻 About Me
+    <g
+      font-family="monospace"
+      font-size="13"
+      font-weight="700"
+      fill="url(#accent)"
+      filter="url(#glow)">
 
-<div align="center">
+      <!-- Line 1 -->
 
-### Hi! I'm **Neshik S S** 👋
+      <text
+        x="0"
+        y="62"
+        opacity="0">
 
-**Bachelor's of Computer Applications (BCA) Student**  
-📍 **Salem, India**
+        ████████
 
-</div>
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin=".2s"
+          dur=".45s"
+          fill="freeze"/>
 
-I'm a BCA student interested in **technology and software development**.
+      </text>
 
-I use GitHub to learn, experiment, build projects, and document my development journey.
 
-### 💡 My Philosophy
+      <!-- Line 2 -->
 
-> **Learn → Build → Experiment → Improve → Repeat**
+      <text
+        x="0"
+        y="77"
+        opacity="0">
 
-### 🌱 What I Believe In
+        ██████████████
 
-- 💻 Learning through practical development
-- 🧠 Continuously improving technical knowledge
-- 🚀 Building meaningful projects
-- 📚 Exploring new technologies
-- 🔍 Solving problems through technology
-- 🤝 Learning and collaborating with others
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin=".45s"
+          dur=".45s"
+          fill="freeze"/>
 
----
+      </text>
 
-# ⚡ Quick Profile
 
-<div align="center">
+      <!-- Line 3 -->
 
-| 🎓 Education | 📍 Location | 💻 Role | 🌐 Portfolio |
-|:---:|:---:|:---:|:---:|
-| BCA | Salem, India | Developer | Available |
+      <text
+        x="0"
+        y="92"
+        opacity="0">
 
-</div>
+        ████  ◉    ◉  ████
 
----
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin=".7s"
+          dur=".45s"
+          fill="freeze"/>
 
-# 🌐 My Links
+      </text>
 
-<div align="center">
 
-<a href="https://github.com/neshik1507">
-<img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+      <!-- Line 4 -->
 
-<a href="https://www.linkedin.com/in/neshik-s-s-3804a3387/">
-<img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+      <text
+        x="0"
+        y="107"
+        opacity="0">
 
-<a href="https://agent-6a9bfdcc56bb08d--curious-cheesecake-8aacd8.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-My%20Website-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+        █████    ▽    █████
 
-<a href="mailto:neshik1507@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin=".95s"
+          dur=".45s"
+          fill="freeze"/>
 
-</div>
+      </text>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neshik-s-s-3804a3387?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neshik1507@gmail.com) 
+      <!-- Line 5 -->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=neshik1507&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=neshik1507&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=neshik1507&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+      <text
+        x="0"
+        y="122"
+        opacity="0">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neshik1507&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+        ████████████████████
 
----
-[![](https://komarev.com/ghpvc/?username=neshik1507&icon=4&color=0)](https://visitcount.itsvg.in)
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="1.2s"
+          dur=".45s"
+          fill="freeze"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 🛠️ Tech Stack & Skills
+      </text>
 
-> Replace the icons below with only the technologies you actually use.
 
-## 💻 Programming Languages
+      <!-- Line 6 -->
 
-<p align="center">
+      <text
+        x="0"
+        y="137"
+        opacity="0">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark"/>
+        ███  ████████  ███
 
-</p>
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="1.45s"
+          dur=".45s"
+          fill="freeze"/>
 
-## 🎨 Frontend Development
+      </text>
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&theme=dark"/>
+      <!-- Line 7 -->
 
-</p>
+      <text
+        x="0"
+        y="152"
+        opacity="0">
 
-## ⚙️ Backend Development
+        ████  ██  ████
 
-<p align="center">
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="1.7s"
+          dur=".45s"
+          fill="freeze"/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark"/>
+      </text>
 
-</p>
 
-## 🗄️ Databases
+      <!-- Line 8 -->
 
-<p align="center">
+      <text
+        x="0"
+        y="167"
+        opacity="0">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark"/>
+        ████████
 
-</p>
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="1.95s"
+          dur=".45s"
+          fill="freeze"/>
 
-## 🔧 Tools & Platforms
+      </text>
 
-<p align="center">
+    </g>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker,vercel&theme=dark"/>
 
-</p>
+    <!-- ===================================================== -->
+    <!-- SCANLINE -->
+    <!-- ===================================================== -->
 
----
+    <g opacity=".28">
 
-# 📊 GitHub Analytics
+      <rect
+        x="-15"
+        y="35"
+        width="310"
+        height="2"
+        fill="#22D3EE">
 
-<div align="center">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0 0;0 145;0 0"
+          dur="4s"
+          repeatCount="indefinite"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=neshik1507&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&text_color=FFFFFF"/>
+      </rect>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshik1507&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF"/>
+    </g>
 
-</div>
 
----
+    <!-- Terminal Prompt -->
 
-# 🔥 GitHub Streak
+    <text
+      x="0"
+      y="225"
+      font-family="monospace"
+      font-size="12"
+      fill="#94A3B8">
 
-<div align="center">
+      $ whoami
 
-<img width="70%" src="https://streak-stats.demolab.com?user=neshik1507&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+    </text>
 
-</div>
 
----
+    <!-- Name -->
 
-# 📈 Contribution Activity
+    <text
+      x="0"
+      y="250"
+      font-family="monospace"
+      font-size="24"
+      font-weight="700"
+      fill="#F8FAFC">
 
-<div align="center">
+      neshik
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=neshik1507&bg_color=0D1117&color=FFFFFF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true&custom_title=Neshik%20S%20S%20-%20Contribution%20Activity"/>
+      <tspan fill="#22D3EE">_</tspan>
 
-</div>
+    </text>
 
----
 
-# 🏆 GitHub Trophies
+    <!-- Description -->
 
-<div align="center">
+    <text
+      x="0"
+      y="285"
+      font-family="sans-serif"
+      font-size="13"
+      fill="#94A3B8">
 
-<img src="https://github-profile-trophy.vercel.app/?username=neshik1507&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+      BUILDING DIGITAL WORLDS
 
-</div>
+    </text>
 
----
 
-# 🐍 Contribution Snake
+    <text
+      x="0"
+      y="310"
+      font-family="sans-serif"
+      font-size="13"
+      fill="#94A3B8">
 
-<div align="center">
+      AI · WEB · UI/UX · SPACE
 
-<img src="https://raw.githubusercontent.com/neshik1507/neshik1507/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+    </text>
 
-</div>
+  </g>
 
----
 
-# 🎯 Current Focus
+  <!-- ======================================================= -->
+  <!-- RIGHT TERMINAL -->
+  <!-- ======================================================= -->
 
-<div align="center">
+  <g transform="translate(405 65)">
 
-<table>
-<tr>
+    <!-- Terminal Window -->
 
-<td align="center" width="20%">
+    <rect
+      width="700"
+      height="480"
+      rx="22"
+      fill="#030712"
+      fill-opacity=".78"
+      stroke="#F8FAFC"
+      stroke-opacity=".09"/>
 
-### 💻
 
-**Development**
+    <!-- Terminal Header -->
 
-</td>
+    <rect
+      width="700"
+      height="58"
+      rx="22"
+      fill="#0F172A"
+      fill-opacity=".92"/>
 
-<td align="center" width="20%">
 
-### 📚
+    <rect
+      y="35"
+      width="700"
+      height="23"
+      fill="#0F172A"
+      fill-opacity=".92"/>
 
-**Learning**
 
-</td>
+    <!-- Window Controls -->
 
-<td align="center" width="20%">
+    <circle
+      cx="28"
+      cy="29"
+      r="6"
+      fill="#7C3AED"/>
 
-### 🧠
+    <circle
+      cx="49"
+      cy="29"
+      r="6"
+      fill="#22D3EE"/>
 
-**Problem Solving**
+    <circle
+      cx="70"
+      cy="29"
+      r="6"
+      fill="#10B981"/>
 
-</td>
 
-<td align="center" width="20%">
+    <!-- Terminal Title -->
 
-### 🚀
+    <text
+      x="105"
+      y="34"
+      font-family="monospace"
+      font-size="12"
+      fill="#94A3B8">
 
-**Building**
+      neshik@github: ~/profile
 
-</td>
+    </text>
 
-<td align="center" width="20%">
 
-### 🔍
+    <!-- ===================================================== -->
+    <!-- GREETING -->
+    <!-- ===================================================== -->
 
-**Exploring**
+    <text
+      x="36"
+      y="102"
+      font-family="sans-serif"
+      font-size="15"
+      fill="#94A3B8">
 
-</td>
+      Hi 👋
 
-</tr>
-</table>
+    </text>
 
-</div>
 
----
+    <!-- Main Name -->
 
-# 🧠 Learning Journey
+    <text
+      x="36"
+      y="143"
+      font-family="sans-serif"
+      font-size="37"
+      font-weight="800"
+      fill="#F8FAFC">
 
-<div align="center">
+      I'm Neshik
 
-```text
-             ┌──────────────┐
-             │    LEARN     │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │    BUILD     │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │ EXPERIMENT   │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │   IMPROVE    │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │    SHARE     │
-             └──────┬───────┘
-                    │
-                    └──────────► 🔄 REPEAT
+    </text>
+
+
+    <!-- ===================================================== -->
+    <!-- TYPING ROLE 1 -->
+    <!-- ===================================================== -->
+
+    <text
+      x="36"
+      y="178"
+      font-family="monospace"
+      font-size="16"
+      fill="#22D3EE">
+
+      <tspan>Software Developer</tspan>
+
+      <animate
+        attributeName="opacity"
+        values="1;1;0;0;1"
+        dur="8s"
+        repeatCount="indefinite"/>
+
+    </text>
+
+
+    <!-- ===================================================== -->
+    <!-- TYPING ROLE 2 -->
+    <!-- ===================================================== -->
+
+    <text
+      x="36"
+      y="178"
+      font-family="monospace"
+      font-size="16"
+      fill="#7C3AED"
+      opacity="0">
+
+      <tspan>AI &amp; Web Developer</tspan>
+
+      <animate
+        attributeName="opacity"
+        values="0;0;1;1;0"
+        dur="8s"
+        repeatCount="indefinite"/>
+
+    </text>
+
+
+    <!-- Blinking Cursor -->
+
+    <rect
+      x="255"
+      y="163"
+      width="2"
+      height="20"
+      fill="#22D3EE">
+
+      <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"/>
+
+    </rect>
+
+
+    <!-- ===================================================== -->
+    <!-- PROFILE DETAILS -->
+    <!-- ===================================================== -->
+
+    <g
+      font-family="monospace"
+      font-size="12">
+
+      <!-- Location -->
+
+      <text
+        x="36"
+        y="222"
+        fill="#94A3B8"
+        opacity="0">
+
+        📍 Salem, India
+
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="2.2s"
+          dur=".5s"
+          fill="freeze"/>
+
+      </text>
+
+
+      <!-- Education -->
+
+      <text
+        x="36"
+        y="247"
+        fill="#94A3B8"
+        opacity="0">
+
+        🎓 BCA Student
+
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="2.5s"
+          dur=".5s"
+          fill="freeze"/>
+
+      </text>
+
+
+      <!-- Focus -->
+
+      <text
+        x="36"
+        y="272"
+        fill="#94A3B8"
+        opacity="0">
+
+        🚀 Building AI + Web Projects
+
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="2.8s"
+          dur=".5s"
+          fill="freeze"/>
+
+      </text>
+
+
+      <!-- Interests -->
+
+      <text
+        x="36"
+        y="297"
+        fill="#94A3B8"
+        opacity="0">
+
+        🌌 Exploring Space &amp; Creative Technology
+
+        <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="3.1s"
+          dur=".5s"
+          fill="freeze"/>
+
+      </text>
+
+    </g>
+
+
+    <!-- ===================================================== -->
+    <!-- SKILLS -->
+    <!-- ===================================================== -->
+
+    <text
+      x="36"
+      y="335"
+      font-family="sans-serif"
+      font-size="12"
+      font-weight="700"
+      fill="#F8FAFC">
+
+      SKILLS
+
+    </text>
+
+
+    <g
+      font-family="sans-serif"
+      font-size="11"
+      fill="#F8FAFC">
+
+
+      <!-- JavaScript -->
+
+      <g transform="translate(36 350)">
+
+        <rect
+          width="82"
+          height="28"
+          rx="14"
+          fill="#7C3AED"
+          fill-opacity=".16"
+          stroke="#7C3AED"
+          stroke-opacity=".35"/>
+
+        <text
+          x="41"
+          y="18"
+          text-anchor="middle">
+
+          JavaScript
+
+        </text>
+
+        <animateTransform
+          attributeName="transform"
+          type="scale"
+          values="1;1.03;1"
+          dur="3s"
+          repeatCount="indefinite"/>
+
+      </g>
+
+
+      <!-- Python -->
+
+      <g transform="translate(128 350)">
+
+        <rect
+          width="72"
+          height="28"
+          rx="14"
+          fill="#22D3EE"
+          fill-opacity=".16"
+          stroke="#22D3EE"
+          stroke-opacity=".35"/>
+
+        <text
+          x="36"
+          y="18"
+          text-anchor="middle">
+
+          Python
+
+        </text>
+
+      </g>
+
+
+      <!-- React -->
+
+      <g transform="translate(210 350)">
+
+        <rect
+          width="72"
+          height="28"
+          rx="14"
+          fill="#10B981"
+          fill-opacity=".16"
+          stroke="#10B981"
+          stroke-opacity=".35"/>
+
+        <text
+          x="36"
+          y="18"
+          text-anchor="middle">
+
+          React
+
+        </text>
+
+      </g>
+
+
+      <!-- Generative AI -->
+
+      <g transform="translate(292 350)">
+
+        <rect
+          width="92"
+          height="28"
+          rx="14"
+          fill="#7C3AED"
+          fill-opacity=".16"
+          stroke="#7C3AED"
+          stroke-opacity=".35"/>
+
+        <text
+          x="46"
+          y="18"
+          text-anchor="middle">
+
+          Generative AI
+
+        </text>
+
+      </g>
+
+
+      <!-- UI UX -->
+
+      <g transform="translate(394 350)">
+
+        <rect
+          width="76"
+          height="28"
+          rx="14"
+          fill="#22D3EE"
+          fill-opacity=".16"
+          stroke="#22D3EE"
+          stroke-opacity=".35"/>
+
+        <text
+          x="38"
+          y="18"
+          text-anchor="middle">
+
+          UI / UX
+
+        </text>
+
+      </g>
+
+    </g>
+
+
+    <!-- ===================================================== -->
+    <!-- SOCIAL LINKS -->
+    <!-- ===================================================== -->
+
+    <g
+      transform="translate(36 414)"
+      fill="#94A3B8"
+      font-family="sans-serif"
+      font-size="12">
+
+      <text x="0" y="0">
+        ⌘ GitHub
+      </text>
+
+      <text x="105" y="0">
+        in LinkedIn
+      </text>
+
+      <text x="225" y="0">
+        ◎ Portfolio
+      </text>
+
+      <text x="340" y="0">
+        ✉ Email
+      </text>
+
+    </g>
+
+
+    <!-- Terminal Footer -->
+
+    <text
+      x="36"
+      y="452"
+      font-family="monospace"
+      font-size="11"
+      fill="#94A3B8">
+
+      $ learn → build → improve → repeat ♾
+
+    </text>
+
+  </g>
+
+
+  <!-- ======================================================= -->
+  <!-- FLOATING PARTICLES -->
+  <!-- ======================================================= -->
+
+  <g fill="#22D3EE">
+
+    <circle
+      cx="360"
+      cy="80"
+      r="2">
+
+      <animate
+        attributeName="cy"
+        values="80;55;80"
+        dur="4s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle
+      cx="1140"
+      cy="150"
+      r="1.5">
+
+      <animate
+        attributeName="cy"
+        values="150;125;150"
+        dur="3.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle
+      cx="375"
+      cy="535"
+      r="1.5">
+
+      <animate
+        attributeName="cy"
+        values="535;510;535"
+        dur="5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- ======================================================= -->
+  <!-- MOVING SCANLINE -->
+  <!-- ======================================================= -->
+
+  <rect
+    x="24"
+    y="24"
+    width="1132"
+    height="562"
+    rx="24"
+    fill="url(#scan)">
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 -610;0 610"
+      dur="7s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+</g>
+
+</svg>
