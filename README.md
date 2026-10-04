@@ -1,4 +1,4 @@
-About Me
+About Me👋🏻
 Hi, I’m Neshik S S — a passionate BCA student, aspiring Software Engineer, Web Developer, and UI/UX enthusiast who enjoys turning creative ideas into interactive digital experiences.
 I’m interested in web development, software development, artificial intelligence, UI/UX design, and emerging technologies. I enjoy building projects that combine technology with creativity, from futuristic dashboards and AI-powered applications to interactive websites and personal productivity tools.
 I’m a quick learner with a creative mindset, a consistent and focused approach to learning, and a strong interest in solving problems through technology. I’m continuously improving my skills in programming, frontend development, application development, and modern AI tools.
@@ -21,7 +21,7 @@ About Me<br><br>Hi, I’m Neshik S S — a passionate BCA student, aspiring Soft
 ![](https://streak-stats.demolab.com/?user=neshik1507&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=neshik1507&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->velopment
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->devlopment
 🛰️ Technology & Space-related Projects
 ⚡ Creative Interactive Websites
 🛠️ My Approach
@@ -31,4 +31,3 @@ My goal is to become a professional Software Engineer and build innovative techn
 BCA → Advanced Technical Skills → Software Engineering → Full-Stack / AI Development
 I’m continuously learning, building, experimenting, and preparing myself for opportunities in the IT industry.
 > **“Think creatively. Build boldly. Keep learning.”**
-modify gbrm like Jarvis interface 
