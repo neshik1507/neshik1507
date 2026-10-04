@@ -1,8 +1,5 @@
-About Me👋🏻
-Hi, I’m Neshik S S — a passionate BCA student, aspiring Software Engineer, Web Developer, and UI/UX enthusiast who enjoys turning creative ideas into interactive digital experiences.
-I’m interested in web development, software development, artificial intelligence, UI/UX design, and emerging technologies. I enjoy building projects that combine technology with creativity, from futuristic dashboards and AI-powered applications to interactive websites and personal productivity tools.
-I’m a quick learner with a creative mindset, a consistent and focused approach to learning, and a strong interest in solving problems through technology. I’m continuously improving my skills in programming, frontend development, application development, and modern AI tools.
-🚀 What I Do
+
+Hi👋🏻
 💻 Web Development
 🎨 UI/UX Design
 🤖 AI & Generative AI Projects
