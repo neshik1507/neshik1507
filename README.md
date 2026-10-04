@@ -10,21 +10,19 @@ I’m a quick learner with a creative mindset, a consistent and focused approach
 📱 Application De# 💫 About Me:
 About Me<br><br>Hi, I’m Neshik S S — a passionate BCA student, aspiring Software Engineer, Web Developer, and UI/UX enthusiast who enjoys turning creative ideas into interactive digital experiences.<br><br>I’m interested in web development, software development, artificial intelligence, UI/UX design, and emerging technologies. I enjoy building projects that combine technology with creativity, from futuristic dashboards and AI-powered applications to interactive websites and personal productivity tools.<br><br>I’m a quick learner with a creative mindset, a consistent and focused approach to learning, and a strong interest in solving problems through technology. I’m continuously improving my skills in programming, frontend development, application development, and modern AI tools.<br><br>🚀 What I Do<br><br>- 💻 Web Development<br>- 🎨 UI/UX Design<br>- 🤖 AI & Generative AI Projects<br>- 🧠 Programming & Problem Solving<br>- 📱 Application Development<br>- 🛰️ Technology & Space-related Projects<br>- ⚡ Creative Interactive Websites<br><br>🛠️ My Approach<br><br>I believe in learning by building. Instead of only studying concepts, I like transforming what I learn into real projects, experiments, and useful applications.<br><br>My goal is to become a professional Software Engineer and build innovative technology that is useful, creative, and enjoyable to experience.<br><br>🎯 Career Goal<br><br>BCA → Advanced Technical Skills → Software Engineering → Full-Stack / AI Development<br><br>I’m continuously learning, building, experimenting, and preparing myself for opportunities in the IT industry.<br><br>«“Think creatively. Build boldly. Keep learning.”»
 
-🌐 Socials:
 
-  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/neshik1507?stkn=MTlpOGIzaXBxMjI5cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neshik-s-s-3804a3387?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neshik1507@gmail.com) 
 
-💻 Tech Stack:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=neshik1507&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=neshik1507&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=neshik1507&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-                            
-
-📊 GitHub Stats:
-
-<br/>
-<br/>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->velopment  🛰️ Technology & Space-related Projects
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->velopment
+🛰️ Technology & Space-related Projects
 ⚡ Creative Interactive Websites
 🛠️ My Approach
 I believe in learning by building. Instead of only studying concepts, I like transforming what I learn into real projects, experiments, and useful applications.
@@ -32,6 +30,5 @@ My goal is to become a professional Software Engineer and build innovative techn
 🎯 Career Goal
 BCA → Advanced Technical Skills → Software Engineering → Full-Stack / AI Development
 I’m continuously learning, building, experimenting, and preparing myself for opportunities in the IT industry.
-
-> “Think creatively. Build boldly. Keep learning.”
-modify gbrm like Jarvis interface
+> **“Think creatively. Build boldly. Keep learning.”**
+modify gbrm like Jarvis interface 
