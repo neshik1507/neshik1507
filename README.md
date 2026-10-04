@@ -1,15 +1,275 @@
-# 💫 About Me:
-About Me<br><br>Hi, I’m Neshik S S — a passionate BCA student, aspiring Software Engineer, Web Developer, and UI/UX enthusiast who enjoys turning creative ideas into interactive digital experiences.<br><br>I’m interested in web development, software development, artificial intelligence, UI/UX design, and emerging technologies. I enjoy building projects that combine technology with creativity, from futuristic dashboards and AI-powered applications to interactive websites and personal productivity tools.<br><br>I’m a quick learner with a creative mindset, a consistent and focused approach to learning, and a strong interest in solving problems through technology. I’m continuously improving my skills in programming, frontend development, application development, and modern AI tools.<br><br>🚀 What I Do<br><br>- 💻 Web Development<br>- 🎨 UI/UX Design<br>- 🤖 AI & Generative AI Projects<br>- 🧠 Programming & Problem Solving<br>- 📱 Application Development<br>- 🛰️ Technology & Space-related Projects<br>- ⚡ Creative Interactive Websites<br><br>🛠️ My Approach<br><br>I believe in learning by building. Instead of only studying concepts, I like transforming what I learn into real projects, experiments, and useful applications.<br><br>My goal is to become a professional Software Engineer and build innovative technology that is useful, creative, and enjoyable to experience.<br><br>🎯 Career Goal<br><br>BCA → Advanced Technical Skills → Software Engineering → Full-Stack / AI Development<br><br>I’m continuously learning, building, experimenting, and preparing myself for opportunities in the IT industry.<br><br>«“Think creatively. Build boldly. Keep learning.”»
+<!-- ========================================================= --><!-- NESHIK // JARVIS COMMAND INTERFACE --><!-- ========================================================= --><div align="center">"J.A.R.V.I.S."
 
+"JUST A RATHER VERY INTELLIGENT SYSTEM"
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/neshik1507?stkn=MTlpOGIzaXBxMjI5cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neshik-s-s-3804a3387?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neshik1507@gmail.com) 
+NESHIK S S // SOFTWARE ENGINEERING COMMAND DECK
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=neshik1507&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=neshik1507&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=neshik1507&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:00b9c7,100:020617&height=180&section=header&text=NESHIK&fontSize=52&fontColor=00f6ff&animation=fadeIn&fontAlignY=35&desc=PERSONAL%20TECHNOLOGY%20COMMAND%20SYSTEM&descAlignY=58&descSize=16" width="100%"/>"[ SYSTEM ONLINE ]" " [ JARVIS CORE ACTIVE ]" " [ ALL SYSTEMS NOMINAL ]"
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>---
+
+"> BOOT_SEQUENCE"
+
+╔══════════════════════════════════════════════════════════════╗
+║                  J.A.R.V.I.S. // BOOTING                    ║
+╠══════════════════════════════════════════════════════════════╣
+║ USER        : NESHIK S S                                    ║
+║ ROLE        : BCA STUDENT / ASPIRING SOFTWARE ENGINEER      ║
+║ STATUS      : LEARNING • BUILDING • EXPERIMENTING           ║
+║ CORE        : WEB • AI • UI/UX • SOFTWARE DEVELOPMENT       ║
+║ MODE        : CREATIVE ENGINEERING                         ║
+║ SYSTEM      : ONLINE                                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+«JARVIS: Welcome to Neshik's digital command center.»
+
+---
+
+"> ABOUT_ME"
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">Hi, I'm Neshik S S — a passionate BCA student, aspiring Software Engineer, Web Developer, and UI/UX enthusiast who enjoys turning creative ideas into interactive digital experiences.
+
+I'm interested in:
+
+- 💻 Web Development
+- 🤖 Artificial Intelligence & Generative AI
+- 🎨 UI/UX Design
+- 🧠 Programming & Problem Solving
+- 📱 Application Development
+- 🛰️ Space & Technology
+- ⚡ Interactive & Experimental Websites
+
+I enjoy building projects that combine technology + creativity, from futuristic dashboards and AI-powered applications to interactive websites and productivity tools.
+
+I'm a quick learner with a creative mindset, consistent approach, and strong interest in solving problems through technology.
+
+"CURRENT_MISSION"
+
+BCA
+ ↓
+ADVANCED TECHNICAL SKILLS
+ ↓
+SOFTWARE ENGINEERING
+ ↓
+FULL-STACK DEVELOPMENT
+ ↓
+AI / GENERATIVE AI
+ ↓
+BUILD SOMETHING GREAT
+
+«"Think creatively. Build boldly. Keep learning."»
+
+---
+
+"> JARVIS_STATUS"
+
+┌──────────────────────────────────────────────────────────────┐
+│                    SYSTEM DIAGNOSTICS                       │
+├───────────────────────┬──────────────────────────────────────┤
+│ CORE SYSTEM           │ ONLINE                               │
+│ LEARNING ENGINE       │ ACTIVE                               │
+│ CREATIVE ENGINE       │ ACTIVE                               │
+│ WEB DEVELOPMENT       │ ONLINE                               │
+│ AI MODULE             │ ACTIVE                               │
+│ UI/UX MODULE          │ ACTIVE                               │
+│ PROJECT ENGINE        │ BUILDING                             │
+│ PROBLEM SOLVING       │ ACTIVE                               │
+└───────────────────────┴──────────────────────────────────────┘
+
+"PRIMARY DIRECTIVES"
+
+"01" — Learn continuously
+"02" — Build real projects
+"03" — Improve technical skills
+"04" — Experiment with emerging technology
+"05" — Create useful digital experiences
+"06" — Prepare for the IT industry
+
+---
+
+"> COMMAND_MODULES"
+
+MODULE| STATUS| FUNCTION
+"WEB.DEV"| 🟢 ONLINE| Websites & Web Applications
+"UI.UX"| 🟢 ONLINE| Interfaces & User Experience
+"AI.CORE"| 🟢 ACTIVE| AI & Generative AI
+"CODE.ENGINE"| 🟢 ACTIVE| Programming & Problem Solving
+"APP.DEV"| 🟢 ONLINE| Application Development
+"SPACE.CORE"| 🔵 EXPLORING| Astronomy & Space Technology
+"CREATIVE.CORE"| 🟢 ACTIVE| Experimental Digital Experiences
+
+---
+
+"> TECHNICAL_ARSENAL"
+
+"PROGRAMMING"
+
+"C" (https://img.shields.io/badge/C-020617?style=for-the-badge&logo=c&logoColor=00f6ff)
+"C++" (https://img.shields.io/badge/C%2B%2B-020617?style=for-the-badge&logo=c%2B%2B&logoColor=00f6ff)
+"Python" (https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00f6ff)
+"JavaScript" (https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=00f6ff)
+"PHP" (https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=00f6ff)
+
+"WEB SYSTEMS"
+
+"HTML5" (https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=00f6ff)
+"CSS3" (https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=00f6ff)
+"TailwindCSS" (https://img.shields.io/badge/TailwindCSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=00f6ff)
+"Express.js" (https://img.shields.io/badge/Express.js-020617?style=for-the-badge&logo=express&logoColor=00f6ff)
+"Three.js" (https://img.shields.io/badge/Three.js-020617?style=for-the-badge&logo=three.js&logoColor=00f6ff)
+
+"DATABASE SYSTEMS"
+
+"MongoDB" (https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=00f6ff)
+"MySQL" (https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00f6ff)
+
+"CLOUD / DEPLOYMENT"
+
+"Google Cloud" (https://img.shields.io/badge/Google_Cloud-020617?style=for-the-badge&logo=googlecloud&logoColor=00f6ff)
+"AWS" (https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=00f6ff)
+"Vercel" (https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=00f6ff)
+"Netlify" (https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=00f6ff)
+"Docker" (https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=00f6ff)
+
+"DESIGN / CREATIVE SYSTEMS"
+
+"Figma" (https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=00f6ff)
+"Canva" (https://img.shields.io/badge/Canva-020617?style=for-the-badge&logo=canva&logoColor=00f6ff)
+"Blender" (https://img.shields.io/badge/Blender-020617?style=for-the-badge&logo=blender&logoColor=00f6ff)
+
+"DEVELOPMENT TOOLS"
+
+"Git" (https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=00f6ff)
+"GitHub" (https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00f6ff)
+"Postman" (https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=00f6ff)
+"Prettier" (https://img.shields.io/badge/Prettier-020617?style=for-the-badge&logo=prettier&logoColor=00f6ff)
+"Jest" (https://img.shields.io/badge/Jest-020617?style=for-the-badge&logo=jest&logoColor=00f6ff)
+"Playwright" (https://img.shields.io/badge/Playwright-020617?style=for-the-badge&logo=playwright&logoColor=00f6ff)
+"Cypress" (https://img.shields.io/badge/Cypress-020617?style=for-the-badge&logo=cypress&logoColor=00f6ff)
+
+---
+
+"> PROJECT_DATABASE"
+
+┌──────────────────────────────────────────────────────────────┐
+│                    PROJECT DATABASE                          │
+├──────────────────────────────────────────────────────────────┤
+│ [01] JARVIS COMMAND HUD                                     │
+│      Personal futuristic command dashboard                  │
+│                                                              │
+│ [02] POCKETSMART AI                                         │
+│      Smart budget & recommendation assistant                │
+│                                                              │
+│ [03] NEUTRINO 15                                            │
+│      Experimental technology project ecosystem              │
+│                                                              │
+│ [04] AI MEETING SUMMARIZER                                  │
+│      AI-powered meeting productivity tool                   │
+│                                                              │
+│ [05] FONT FINDER                                             │
+│      Typography discovery application                       │
+│                                                              │
+│ [06] BILL SPLITTER                                           │
+│      Simple financial utility application                   │
+│                                                              │
+│ [07] SPACE INFORMATION SYSTEM                                │
+│      Interactive space & astronomy experience               │
+│                                                              │
+│ [08] MS DHONI FAN WEBSITE                                   │
+│      Interactive sports fan website                         │
+│                                                              │
+│ [09] TAMIL NADU TEMPLE FINDER                               │
+│      Temple discovery & information platform                │
+│                                                              │
+│ [10] FUTURISTIC WEB EXPERIENCES                              │
+│      Experimental interactive web projects                  │
+└──────────────────────────────────────────────────────────────┘
+
+---
+
+"> DEVELOPMENT_PHILOSOPHY"
+
+             ┌──────────────────────┐
+             │       IDEA           │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │      RESEARCH        │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │       DESIGN         │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │        CODE          │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │        TEST          │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │       DEPLOY         │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │      IMPROVE         │
+             └──────────────────────┘
+
+LEARN → BUILD → TEST → IMPROVE → REPEAT
+
+---
+
+"> GITHUB_DIAGNOSTICS"
+
+<div align="center"><img src="https://github-readme-stats.shion.dev/api?username=neshik1507&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/><img src="https://streak-stats.demolab.com/?user=neshik1507&theme=dark&hide_border=true" width="49%"/><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=neshik1507&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%"/></div>---
+
+"> SYSTEM_ACTIVITY"
+
+╔══════════════════════════════════════════════════════════════╗
+║                    ACTIVITY MONITOR                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  CODE          ████████████████████░░  ACTIVE               ║
+║  LEARNING      █████████████████████░  ACTIVE               ║
+║  CREATIVITY    ████████████████████░░  ACTIVE               ║
+║  AI            ██████████████████░░░░  EXPLORING            ║
+║  UI/UX         ███████████████████░░░  ACTIVE               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+---
+
+"> CONNECT_TO_NESHIK"
+
+<div align="center">""Instagram" (https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=00f6ff)" (https://www.instagram.com/neshik1507/)
+
+""LinkedIn" (https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00f6ff)" (https://www.linkedin.com/in/neshik-s-s-3804a3387/)
+
+""Email" (https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=00f6ff)" (mailto:neshik1507@gmail.com)
+
+""GitHub" (https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=00f6ff)" (https://github.com/neshik1507)
+
+</div>---
+
+"> FINAL_TRANSMISSION"
+
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              N E S H I K   S S                              ║
+║                                                              ║
+║       SOFTWARE ENGINEERING // CREATIVE TECHNOLOGY            ║
+║                                                              ║
+║       LEARN  •  BUILD  •  EXPERIMENT  •  EVOLVE             ║
+║                                                              ║
+║              "Think creatively. Build boldly.              ║
+║                       Keep learning."                        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+<div align="center">"JARVIS // SYSTEM OFFLINE"
+
+"[ END OF TRANSMISSION ]"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:00b9c7,100:020617&height=120&section=footer"/></div>
